@@ -25,6 +25,7 @@ class _HomePageState extends State<HomePage> {
   int dadoIzq = 1;
   int dadoDer = 1;
 
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -66,3 +67,4 @@ class _HomePageState extends State<HomePage> {
     );
   }
 }
+
